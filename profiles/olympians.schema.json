@@ -1,0 +1,362 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Olympian research profiles",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "status",
+    "methodology",
+    "deities"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "0.1.0"
+    },
+    "deities": {
+      "type": "array",
+      "minItems": 12,
+      "maxItems": 12,
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "deity_name",
+          "status",
+          "dimensions",
+          "episode_ids",
+          "pilot_persona",
+          "research_gaps"
+        ],
+        "properties": {
+          "id": {
+            "enum": [
+              "aphrodite",
+              "apollo",
+              "ares",
+              "artemis",
+              "athena",
+              "demeter",
+              "dionysus",
+              "hephaestus",
+              "hera",
+              "hermes",
+              "poseidon",
+              "zeus"
+            ]
+          },
+          "status": {
+            "const": "working_draft"
+          },
+          "dimensions": {
+            "type": "object",
+            "required": [
+              "personality_temperament",
+              "values_priorities",
+              "decision_patterns",
+              "conflicting_priorities",
+              "triggers_motivations",
+              "relationships_partiality",
+              "methods_of_action",
+              "limits_exceptions",
+              "communication_style",
+              "knowledge_worldview"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "Personality & Temperament": {
+                "type": "object",
+                "required": [
+                  "claim",
+                  "verification_status",
+                  "provenance",
+                  "evidence_ids"
+                ],
+                "properties": {
+                  "claim": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "verification_status": {
+                    "enum": [
+                      "unverified_draft",
+                      "source_supported",
+                      "qualified",
+                      "rejected"
+                    ]
+                  },
+                  "evidence_ids": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  }
+                }
+              },
+              "Values & Priorities": {
+                "type": "object",
+                "required": [
+                  "claim",
+                  "verification_status",
+                  "provenance",
+                  "evidence_ids"
+                ],
+                "properties": {
+                  "claim": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "verification_status": {
+                    "enum": [
+                      "unverified_draft",
+                      "source_supported",
+                      "qualified",
+                      "rejected"
+                    ]
+                  },
+                  "evidence_ids": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  }
+                }
+              },
+              "Decision Patterns": {
+                "type": "object",
+                "required": [
+                  "claim",
+                  "verification_status",
+                  "provenance",
+                  "evidence_ids"
+                ],
+                "properties": {
+                  "claim": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "verification_status": {
+                    "enum": [
+                      "unverified_draft",
+                      "source_supported",
+                      "qualified",
+                      "rejected"
+                    ]
+                  },
+                  "evidence_ids": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  }
+                }
+              },
+              "Conflicting Priorities": {
+                "type": "object",
+                "required": [
+                  "claim",
+                  "verification_status",
+                  "provenance",
+                  "evidence_ids"
+                ],
+                "properties": {
+                  "claim": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "verification_status": {
+                    "enum": [
+                      "unverified_draft",
+                      "source_supported",
+                      "qualified",
+                      "rejected"
+                    ]
+                  },
+                  "evidence_ids": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  }
+                }
+              },
+              "Triggers & Motivations": {
+                "type": "object",
+                "required": [
+                  "claim",
+                  "verification_status",
+                  "provenance",
+                  "evidence_ids"
+                ],
+                "properties": {
+                  "claim": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "verification_status": {
+                    "enum": [
+                      "unverified_draft",
+                      "source_supported",
+                      "qualified",
+                      "rejected"
+                    ]
+                  },
+                  "evidence_ids": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  }
+                }
+              },
+              "Relationships & Partiality": {
+                "type": "object",
+                "required": [
+                  "claim",
+                  "verification_status",
+                  "provenance",
+                  "evidence_ids"
+                ],
+                "properties": {
+                  "claim": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "verification_status": {
+                    "enum": [
+                      "unverified_draft",
+                      "source_supported",
+                      "qualified",
+                      "rejected"
+                    ]
+                  },
+                  "evidence_ids": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  }
+                }
+              },
+              "Methods of Action": {
+                "type": "object",
+                "required": [
+                  "claim",
+                  "verification_status",
+                  "provenance",
+                  "evidence_ids"
+                ],
+                "properties": {
+                  "claim": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "verification_status": {
+                    "enum": [
+                      "unverified_draft",
+                      "source_supported",
+                      "qualified",
+                      "rejected"
+                    ]
+                  },
+                  "evidence_ids": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  }
+                }
+              },
+              "Limits & Exceptions": {
+                "type": "object",
+                "required": [
+                  "claim",
+                  "verification_status",
+                  "provenance",
+                  "evidence_ids"
+                ],
+                "properties": {
+                  "claim": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "verification_status": {
+                    "enum": [
+                      "unverified_draft",
+                      "source_supported",
+                      "qualified",
+                      "rejected"
+                    ]
+                  },
+                  "evidence_ids": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  }
+                }
+              },
+              "Communication Style": {
+                "type": "object",
+                "required": [
+                  "claim",
+                  "verification_status",
+                  "provenance",
+                  "evidence_ids"
+                ],
+                "properties": {
+                  "claim": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "verification_status": {
+                    "enum": [
+                      "unverified_draft",
+                      "source_supported",
+                      "qualified",
+                      "rejected"
+                    ]
+                  },
+                  "evidence_ids": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  }
+                }
+              },
+              "Knowledge & Worldview": {
+                "type": "object",
+                "required": [
+                  "claim",
+                  "verification_status",
+                  "provenance",
+                  "evidence_ids"
+                ],
+                "properties": {
+                  "claim": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "verification_status": {
+                    "enum": [
+                      "unverified_draft",
+                      "source_supported",
+                      "qualified",
+                      "rejected"
+                    ]
+                  },
+                  "evidence_ids": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

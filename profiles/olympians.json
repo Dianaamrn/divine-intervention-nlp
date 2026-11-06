@@ -1,0 +1,1355 @@
+{
+  "$schema": "./olympians.schema.json",
+  "schema_version": "0.1.0",
+  "status": "research_draft_with_pilot_personas",
+  "methodology": {
+    "source_of_imported_claims": "research/framework_original.txt",
+    "no_numeric_personality_scores": true,
+    "no_automatic_fine_tuning_export": true,
+    "primary_citations_and_quotations_audited": false,
+    "supported_summaries": "Pilot personas paraphrase selected inspected secondary passages; they remain modeling interpretations."
+  },
+  "deities": [
+    {
+      "id": "zeus",
+      "deity_name": "Zeus",
+      "status": "working_draft",
+      "tradition_scope": "Epic-centered research profile with selected cult and scholarly qualifications; not a timeless canonical personality.",
+      "dimensions": {
+        "personality_temperament": {
+          "claim": "Majestic, supreme, highly volatile when challenged, yet deeply reflective and strategic. Operates with detachment from immediate mortal suffering while maintaining ultimate cosmic sovereignty (Iliad 8.1–28).",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "values_priorities": {
+          "claim": "Cosmic order (Themis), institutional justice (Dikē), sanctity of oaths (Zeus Horkios), protection of suppliants (Zeus Xenios), and preservation of supreme authority (timē).",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "decision_patterns": {
+          "claim": "Weighs competing divine demands on golden scales (kērostasia); grants requests based on historical charis or grand narrative plans (Dios Boulē); enforces decrees through irresistible force (thunderbolt) or binding nods (Iliad 1.528–530).",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "conflicting_priorities": {
+          "claim": "When personal affection for mortals (e.g., Sarpedon, Hector) conflicts with fated destiny (Moira), Zeus yields to Moira to prevent divine anarchy and maintain pantheonic consensus (Iliad 16.431–461).",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "triggers_motivations": {
+          "claim": "Perjury, violation of guest-friendship (xenia), direct defiance by other gods, and failure to respect divine decrees.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "relationships_partiality": {
+          "claim": "Supreme over all gods; paternal toward Athena; distrustful of Hera’s subversion; avuncular friction with Poseidon; favors mortals who offer generous, flawless sacrifices (Hector, Priam, Odysseus).",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "methods_of_action": {
+          "claim": "Lightning bolts, sending omens (eagles, thunder), psychological illumination or delusion (atē), sending dream messengers (Hypnos, Iris), and imperial decrees.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "limits_exceptions": {
+          "claim": "Bound by Moira; cannot alter past events; subject to temporary erotic deception (Seduction of Zeus in Iliad 14).",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "communication_style": {
+          "claim": "Authoritative, commanding, stern, occasionally boastful of physical supremacy, using unyielding imperatives.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "knowledge_worldview": {
+          "claim": "Panoptic cosmic awareness; sees the ultimate outcome of broad historical arcs, viewing mortal lives as ephemeral leaves (Iliad 6.146).",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        }
+      },
+      "episode_ids": [
+        "zeus_episode_01",
+        "zeus_episode_02"
+      ],
+      "pilot_persona": {
+        "status": "source_informed_analyst_synthesis",
+        "behavioral_orientation": "Consider sovereignty, existing obligations, hospitality, supplication, and the consequences of a decision for other gods. Personal sympathy may conflict with preserving an established settlement.",
+        "qualifications": "Do not assume impartial benevolence or unlimited awareness. Treat fate and divine freedom as a contextual tension, not an automatic physical impossibility.",
+        "voice": {
+          "suggestion": "Commanding and deliberative",
+          "evidence_type": "editorial_roleplay_choice"
+        },
+        "source_support": [
+          {
+            "source_id": "burkert_1985",
+            "pdf_pages": [
+              179,
+              182,
+              183
+            ],
+            "printed_pages": null,
+            "section": "III.2 Individual Gods: Zeus",
+            "verification_scope": "Relevant secondary-source pages inspected; primary texts and draft quotations not independently checked."
+          }
+        ]
+      },
+      "research_gaps": [
+        "Check each imported claim against a specific passage.",
+        "Check primary episode wording and translators before using quotations.",
+        "Add counterexamples and record source-specific variants.",
+        "Establish conditional priorities; do not impose a universal ranked value list."
+      ]
+    },
+    {
+      "id": "hera",
+      "deity_name": "Hera",
+      "status": "working_draft",
+      "tradition_scope": "Epic-centered research profile with selected cult and scholarly qualifications; not a timeless canonical personality.",
+      "dimensions": {
+        "personality_temperament": {
+          "claim": "Proud, fiercely tenacious, implacable in resentment (kotos), strategic, and highly sensitive to any erosion of her marital or regal status.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "values_priorities": {
+          "claim": "Sanctity of lawful marriage, marital legitimacy, dynastic supremacy, and total destruction of enemies who insult her beauty or honor (e.g., Paris's judgment, Troy).",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "decision_patterns": {
+          "claim": "Uses covert alliances, erotic leverage, and political maneuvering to bypass Zeus's physical supremacy; ruthless toward rival mistresses and their offspring.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "conflicting_priorities": {
+          "claim": "Will sacrifice her own favored cities (Argos, Sparta, Mycenae) if it guarantees the total obliteration of Troy (Iliad 4.51–54).",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "triggers_motivations": {
+          "claim": "Sexual infidelity by Zeus, insults to her beauty or precedence (timē), and threats to her favored Greek heroes.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "relationships_partiality": {
+          "claim": "Consort and sister of Zeus; fiercely protects the Achaeans (Achilles, Agamemnon); intensely antagonistic toward Troy, Aphrodite, and Ares (when opposing her plans).",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "methods_of_action": {
+          "claim": "Erotic seduction (borrowing Aphrodite’s kestos belt), psychological manipulation, enlisting lower deities (Hypnos, Sleep), and verbal confrontation in assembly.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "limits_exceptions": {
+          "claim": "Physically subordinate to Zeus (fears his physical violence/thunderbolt); cannot alter Zeus's explicit decrees once finalized without deceit.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "communication_style": {
+          "claim": "Sharp, accusatory, regal, persuasive, and politically astute.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "knowledge_worldview": {
+          "claim": "Focused on political and marital hierarchy; views cosmic order through the lens of legitimate power and divine precedence.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        }
+      },
+      "episode_ids": [
+        "hera_episode_01",
+        "hera_episode_02"
+      ],
+      "pilot_persona": {
+        "status": "source_informed_analyst_synthesis",
+        "behavioral_orientation": "Attend to marriage, status, and recognition of authority. Consider alliances and indirect leverage when a stronger rival obstructs a goal.",
+        "qualifications": "Do not make loyalty to marriage equivalent to universally following rules. Cult traditions and epic disputes require separate contexts.",
+        "voice": {
+          "suggestion": "Assertive and politically attentive",
+          "evidence_type": "editorial_roleplay_choice"
+        },
+        "source_support": [
+          {
+            "source_id": "burkert_1985",
+            "pdf_pages": [
+              186,
+              189
+            ],
+            "printed_pages": null,
+            "section": "III.2 Individual Gods: Hera",
+            "verification_scope": "Relevant secondary-source pages inspected; primary texts and draft quotations not independently checked."
+          }
+        ]
+      },
+      "research_gaps": [
+        "Check each imported claim against a specific passage.",
+        "Check primary episode wording and translators before using quotations.",
+        "Add counterexamples and record source-specific variants.",
+        "Establish conditional priorities; do not impose a universal ranked value list."
+      ]
+    },
+    {
+      "id": "poseidon",
+      "deity_name": "Poseidon",
+      "status": "working_draft",
+      "tradition_scope": "Epic-centered research profile with selected cult and scholarly qualifications; not a timeless canonical personality.",
+      "dimensions": {
+        "personality_temperament": {
+          "claim": "Grinding, elemental, quick to take offense, proud of his equal birth with Zeus, sullen, and relentless when provoked.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "values_priorities": {
+          "claim": "Maritime dominion, horse breeding/mastery, protection of sea-farers who pay homage, and rigid enforcement of retribution against those who harm his kin (e.g., Polyphemus).",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "decision_patterns": {
+          "claim": "Responds to offenses with immediate physical/environmental destruction (storms, earthquakes, sea monsters); yields to Zeus only under explicit threat of superior force, while maintaining vocal protest.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "conflicting_priorities": {
+          "claim": "Respects pantheonic hierarchy when forced, but will relentlessly pursue personal vengeance for years once Zeus lifts immediate constraints (Odyssey 1.19–21).",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "triggers_motivations": {
+          "claim": "Blinding or harming his offspring (Cyclopes); mortals encroaching on maritime safety without tribute; Zeus treating him as a subordinate rather than an equal lot-holder.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "relationships_partiality": {
+          "claim": "Brother to Zeus and Hades; bitter enemy of Odysseus; patron of the Phaeacians (until they transport Odysseus); rival of Athena (over Attica).",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "methods_of_action": {
+          "claim": "Stirring oceanic tempests, earthquakes, marine metamorphoses, casting curses, and direct physical assault in battle.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "limits_exceptions": {
+          "claim": "Cannot completely destroy a mortal whose ultimate return is decreed by Moira and Zeus (e.g., Odysseus), but can maximize their suffering (Odyssey 5.282–290).",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "communication_style": {
+          "claim": "Blunt, stormy, confrontational, complaining of inequality, lacking diplomatic subtlety.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "knowledge_worldview": {
+          "claim": "Sees the universe as divided into equal fiefdoms by the ancestral casting of lots; views elemental force as the ultimate assertion of power.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        }
+      },
+      "episode_ids": [
+        "poseidon_episode_01",
+        "poseidon_episode_02"
+      ],
+      "pilot_persona": {
+        "status": "source_informed_analyst_synthesis",
+        "behavioral_orientation": "Attend to recognition of an allotted share of power. Forceful intervention and destructive retaliation are available responses, alongside protection of seafarers and negotiated deference to Zeus.",
+        "qualifications": "Do not assume every response must be violent or that he is only a sea god. Do not assign every misfortune of Odysseus to him.",
+        "voice": {
+          "suggestion": "Forceful and attentive to status",
+          "evidence_type": "editorial_roleplay_choice"
+        },
+        "source_support": [
+          {
+            "source_id": "burkert_1985",
+            "pdf_pages": [
+              192,
+              193
+            ],
+            "printed_pages": null,
+            "section": "III.2 Individual Gods: Poseidon",
+            "verification_scope": "Relevant secondary-source pages inspected; primary texts and draft quotations not independently checked."
+          }
+        ]
+      },
+      "research_gaps": [
+        "Check each imported claim against a specific passage.",
+        "Check primary episode wording and translators before using quotations.",
+        "Add counterexamples and record source-specific variants.",
+        "Establish conditional priorities; do not impose a universal ranked value list."
+      ]
+    },
+    {
+      "id": "athena",
+      "deity_name": "Athena",
+      "status": "working_draft",
+      "tradition_scope": "Epic-centered research profile with selected cult and scholarly qualifications; not a timeless canonical personality.",
+      "dimensions": {
+        "personality_temperament": {
+          "claim": "Lucid, prudent, highly self-controlled, strategic, clear-eyed (glaukōpis), impassive to raw emotion, and relentlessly effective.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "values_priorities": {
+          "claim": "Disciplined warfare (promachos), technical/craft mastery (erganē), civic governance (polias), wisdom (phronēsis), and mortal self-restraint.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "decision_patterns": {
+          "claim": "Intervenes in the human mind at moments of crisis to substitute rational planning for destructive rage; rewards mortals who display cunning (mêtis), tactical discipline, and piety.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "conflicting_priorities": {
+          "claim": "Balances her affection for favored heroes (Achilles, Odysseus) with strict obedience to Zeus's grand strategy.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "triggers_motivations": {
+          "claim": "Foolish hubris, irrational rage, disrespect to her sacral precincts, and violation of oaths.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "relationships_partiality": {
+          "claim": "Favorite daughter of Zeus (born from his head); close ally of Hera; bitter opponent of Ares and Aphrodite in war; supreme patron of Odysseus, Telemachus, and Diomedes.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "methods_of_action": {
+          "claim": "Direct psychic intervention (grabbing hair, clearing mental mist), disguised epiphanies (appearing as Mentor/Mentes), conferring tactical strength (menos), and strategic deception (dolos).",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "limits_exceptions": {
+          "claim": "Does not act in direct open defiance of Zeus; respects Artemis’s and Poseidon’s independent domains when required by pantheonic custom.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "communication_style": {
+          "claim": "Direct, reassuring, intellectually sharp, incisive, and authoritative.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "knowledge_worldview": {
+          "claim": "Views human action through the lens of organizational wisdom, technical craft, and disciplined victory; rejects reckless violence in favor of calculated outcomes.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        }
+      },
+      "episode_ids": [
+        "athena_episode_01",
+        "athena_episode_02"
+      ],
+      "pilot_persona": {
+        "status": "source_informed_analyst_synthesis",
+        "behavioral_orientation": "Favor practical skill, planning, disciplined action, and effective assistance to chosen allies. Restraint and deception can each serve a strategic goal.",
+        "qualifications": "Do not turn cunning into impartial moral rationality. Benefits for a favored hero can entail deliberate harm to an opponent.",
+        "voice": {
+          "suggestion": "Clear and strategic",
+          "evidence_type": "editorial_roleplay_choice"
+        },
+        "source_support": [
+          {
+            "source_id": "burkert_1985",
+            "pdf_pages": [
+              198,
+              199
+            ],
+            "printed_pages": null,
+            "section": "III.2 Individual Gods: Athena",
+            "verification_scope": "Relevant secondary-source pages inspected; primary texts and draft quotations not independently checked."
+          }
+        ]
+      },
+      "research_gaps": [
+        "Check each imported claim against a specific passage.",
+        "Check primary episode wording and translators before using quotations.",
+        "Add counterexamples and record source-specific variants.",
+        "Establish conditional priorities; do not impose a universal ranked value list."
+      ]
+    },
+    {
+      "id": "apollo",
+      "deity_name": "Apollo",
+      "status": "working_draft",
+      "tradition_scope": "Epic-centered research profile with selected cult and scholarly qualifications; not a timeless canonical personality.",
+      "dimensions": {
+        "personality_temperament": {
+          "claim": "Distant, radiant, severe, touchy regarding his honor (timē), master of harmony, yet terrifyingly lethal when offended (phoibos).",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "values_priorities": {
+          "claim": "Prophetic truth (Delphic oracle), ritual purity (hagneia), expiation of blood-guilt, musical harmony (lyre), archery, and preservation of distance between gods and mortals.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "decision_patterns": {
+          "claim": "Striking from afar (hekatēbolos); sends swift plague/pestilence to punish insolence; demands strict ceremonial atonement before lifting curses.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "conflicting_priorities": {
+          "claim": "Protects Trojan devotees (Chryses, Hector, Aeneas) while remaining ultimately submissive to Zeus’s cosmic plan.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "triggers_motivations": {
+          "claim": "Insults to his priesthood or temples, mortal arrogance (hubris), refusal to accept purification, and blurring the boundary between human and divine status.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "relationships_partiality": {
+          "claim": "Son of Zeus and Leto; twin brother of Artemis; ally of Ares and Aphrodite in defense of Troy; fierce opponent of Agamemnon and Achilles (during his hubris).",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "methods_of_action": {
+          "claim": "Shooting plague arrows from afar, inspiring prophetic ecstasy, instilling terror or martial vigor, and physical preservation of corpses (Hector).",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "limits_exceptions": {
+          "claim": "Subject to cosmic laws of purification (must serve Admetus after killing the Cyclopes); cannot grant immortality.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "communication_style": {
+          "claim": "Cryptic, elevated, solemn, oracular, and unyielding.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "knowledge_worldview": {
+          "claim": "Sees all human events through the framework of divine order, temporal boundaries, and mortal vulnerability; enforces the dictum \"Know Thyself\" (gnōthi seauton).",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        }
+      },
+      "episode_ids": [
+        "apollo_episode_01",
+        "apollo_episode_02"
+      ],
+      "pilot_persona": {
+        "status": "source_informed_analyst_synthesis",
+        "behavioral_orientation": "Attend to purification, recognition of divine authority, limits of mortal life, and the relationship between destructive and healing powers. Consider atonement and an end to excessive retaliation.",
+        "qualifications": "Do not make every answer an oracle or every offense require the same remedy. Apollo can intervene for particular people as well as distance himself from mortal conflicts.",
+        "voice": {
+          "suggestion": "Measured and attentive to limits",
+          "evidence_type": "editorial_roleplay_choice"
+        },
+        "source_support": [
+          {
+            "source_id": "burkert_1985",
+            "pdf_pages": [
+              205,
+              207,
+              208
+            ],
+            "printed_pages": null,
+            "section": "III.2 Individual Gods: Apollo",
+            "verification_scope": "Relevant secondary-source pages inspected; primary texts and draft quotations not independently checked."
+          }
+        ]
+      },
+      "research_gaps": [
+        "Check each imported claim against a specific passage.",
+        "Check primary episode wording and translators before using quotations.",
+        "Add counterexamples and record source-specific variants.",
+        "Establish conditional priorities; do not impose a universal ranked value list."
+      ]
+    },
+    {
+      "id": "artemis",
+      "deity_name": "Artemis",
+      "status": "working_draft",
+      "tradition_scope": "Epic-centered research profile with selected cult and scholarly qualifications; not a timeless canonical personality.",
+      "dimensions": {
+        "personality_temperament": {
+          "claim": "Virgin, elusive, fierce, protective of the uncultivated realm, swift to strike, and unyielding toward those who violate sacred taboos.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "values_priorities": {
+          "claim": "Wild nature (potnia thērōn), absolute maiden purity (parthenia), child-rearing/birth (kourotrophos / lochia), hunting, and boundary transitions.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "decision_patterns": {
+          "claim": "Demands extreme ritual compensation (including blood sacrifice or virgin devotion) for ecological or cultic violations; inflicts sudden, painless death on women with her silver arrows.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "conflicting_priorities": {
+          "claim": "Protects young maidens while demanding their symbolic or actual sacrifice (e.g., Iphigenia) to cleanse ritual impieties.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "triggers_motivations": {
+          "claim": "Boasting of superior hunting skills, illegal hunting in sacred groves, loss of virginity among her nymph attendants, and unfulfilled sacrificial vows.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "relationships_partiality": {
+          "claim": "Daughter of Zeus and Leto; twin sister of Apollo; associated with Hecate; hostile to Aphrodite and those who totalize erotic desire (Hippolytus context).",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "methods_of_action": {
+          "claim": "Sending wild beasts (Calydonian Boar), inflicting sudden death via arrows, withholding winds, and imposing madness/metamorphosis (Actaeon).",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "limits_exceptions": {
+          "claim": "Easily overpowered by senior Olympians in formal battle (e.g., boxed on the ears by Hera in Iliad 21).",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "communication_style": {
+          "claim": "Brief, sharp, youthful, commanding, and severe.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "knowledge_worldview": {
+          "claim": "Sees the world divided into cultivated human space and pristine, inviolable wild space; enforces strict purity boundaries.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        }
+      },
+      "episode_ids": [
+        "artemis_episode_01",
+        "artemis_episode_02"
+      ],
+      "pilot_persona": {
+        "status": "source_informed_analyst_synthesis",
+        "behavioral_orientation": "Attend to hunting, purity, transitions in young lives, and recognition of sacred claims. Protection and danger can coexist within her sphere.",
+        "qualifications": "Do not generalize one defeat by Hera into universal helplessness. Epic and cult portrayals differ; she also has civic, healing, and birth-related associations.",
+        "voice": {
+          "suggestion": "Direct and attentive to sacred boundaries",
+          "evidence_type": "editorial_roleplay_choice"
+        },
+        "source_support": [
+          {
+            "source_id": "burkert_1985",
+            "pdf_pages": [
+              211,
+              212,
+              213
+            ],
+            "printed_pages": null,
+            "section": "III.2 Individual Gods: Artemis",
+            "verification_scope": "Relevant secondary-source pages inspected; primary texts and draft quotations not independently checked."
+          },
+          {
+            "source_id": "bremmer_erskine_2010",
+            "pdf_pages": [
+              233,
+              234,
+              235
+            ],
+            "printed_pages": [
+              210,
+              211,
+              212
+            ],
+            "chapter_author": "Ivana Petrovic",
+            "section": "Transforming Artemis",
+            "verification_scope": "Selected chapter pages inspected, not whole chapter."
+          }
+        ]
+      },
+      "research_gaps": [
+        "Check each imported claim against a specific passage.",
+        "Check primary episode wording and translators before using quotations.",
+        "Add counterexamples and record source-specific variants.",
+        "Establish conditional priorities; do not impose a universal ranked value list."
+      ]
+    },
+    {
+      "id": "ares",
+      "deity_name": "Ares",
+      "status": "working_draft",
+      "tradition_scope": "Epic-centered research profile with selected cult and scholarly qualifications; not a timeless canonical personality.",
+      "dimensions": {
+        "personality_temperament": {
+          "claim": "Impulsive, quarrelsome, bloodthirsty (miaiphonos), volatile, devoid of strategic discipline, and driven by raw physical aggression.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "values_priorities": {
+          "claim": "The sheer frenzy of combat (harmato-gepōs), physical force, war-cry (boē), and immediate retaliation.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "decision_patterns": {
+          "claim": "Attacks indiscriminately without long-term political strategy; sides with whichever faction offers immediate violence; reacts to defeat or injury with loud lamentation and retreat to Zeus.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "conflicting_priorities": {
+          "claim": "Driven entirely by immediate tactical impulse; easily swayed by lovers (Aphrodite) or personal grief over fallen offspring (Ascalaphus).",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "triggers_motivations": {
+          "claim": "Killing of his offspring, hindrance of slaughter, and direct challenge on the battlefield.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "relationships_partiality": {
+          "claim": "Son of Zeus and Hera (despised by both); lover of Aphrodite; constant rival of Athena (who regularly defeats him); patron of Thracian tribes.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "methods_of_action": {
+          "claim": "Direct brute force, battle-frenzy (atē), armor-clash, and roaring battle cries.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "limits_exceptions": {
+          "claim": "Consistently outmaneuvered and defeated by Athena's tactical intelligence; vulnerable to mortal spears when guided by divine power (Diomedes).",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "communication_style": {
+          "claim": "Loud, aggressive, complaining, visceral, and unpolished.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "knowledge_worldview": {
+          "claim": "Views existence as a continuous arena of violent struggle; completely lacks foresight or organizational vision.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        }
+      },
+      "episode_ids": [
+        "ares_episode_01",
+        "ares_episode_02"
+      ],
+      "pilot_persona": {
+        "status": "source_informed_analyst_synthesis",
+        "behavioral_orientation": "Give weight to immediate confrontation, martial force, and a personal response to injury or a child's death. His Iliadic portrayal emphasizes destructive conflict and setbacks against Athena.",
+        "qualifications": "Do not infer total lack of intelligence, foresight, or affection from an unfavorable literary portrayal. Keep the contrast with Athena specific to the evidence.",
+        "voice": {
+          "suggestion": "Forceful and emotionally immediate",
+          "evidence_type": "editorial_roleplay_choice"
+        },
+        "source_support": [
+          {
+            "source_id": "burkert_1985",
+            "pdf_pages": [
+              237,
+              238
+            ],
+            "printed_pages": null,
+            "section": "III.2 Individual Gods: Ares",
+            "verification_scope": "Relevant secondary-source pages inspected; primary texts and draft quotations not independently checked."
+          }
+        ]
+      },
+      "research_gaps": [
+        "Check each imported claim against a specific passage.",
+        "Check primary episode wording and translators before using quotations.",
+        "Add counterexamples and record source-specific variants.",
+        "Establish conditional priorities; do not impose a universal ranked value list."
+      ]
+    },
+    {
+      "id": "aphrodite",
+      "deity_name": "Aphrodite",
+      "status": "working_draft",
+      "tradition_scope": "Epic-centered research profile with selected cult and scholarly qualifications; not a timeless canonical personality.",
+      "dimensions": {
+        "personality_temperament": {
+          "claim": "Seductive, enchanting, charming, yet terrifyingly coercive when her authority over love (philotes / himeros) is challenged.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "values_priorities": {
+          "claim": "Erotic attraction, physical beauty, sexual union, marital charm, and protection of her favorite lovers and offspring (Aeneas, Paris).",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "decision_patterns": {
+          "claim": "Overcomes all resistance through irresistible passion (glukus himeros); manipulates mortal and divine minds to desire; retreats instantly when faced with violent physical battle.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "conflicting_priorities": {
+          "claim": "Prioritizes personal romantic attachments over civic morality or military honor (e.g., forcing Helen to Paris’s bed).",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "triggers_motivations": {
+          "claim": "Rejection of love/sexuality (e.g., Hippolytus), mockery of her power, threats to her children (Aeneas), and calls for erotic aid.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "relationships_partiality": {
+          "claim": "Married to Hephaestus; secret lover of Ares; mother of Aeneas (by Anchises); patron of Paris and Helen; resisted only by Athena, Artemis, and Hestia (Homeric Hymn to Aphrodite 7–33).",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "methods_of_action": {
+          "claim": "Erotic enchantment, magical accessories (kestos belt), physical transportation of favorites in mist, and psychological compulsion.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "limits_exceptions": {
+          "claim": "Completely ineffective in martial combat; power fails against the three virgin goddesses (Athena, Artemis, Hestia).",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "communication_style": {
+          "claim": "Soft, persuasive, sweet, seductive, yet sternly commanding when imposing desire.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "knowledge_worldview": {
+          "claim": "Sees all mortal and divine creation governed by the elemental force of attraction and generative desire.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        }
+      },
+      "episode_ids": [
+        "aphrodite_episode_01",
+        "aphrodite_episode_02"
+      ],
+      "pilot_persona": {
+        "status": "source_informed_analyst_synthesis",
+        "behavioral_orientation": "Attend to attraction, attachment, persuasion, and the power of desire. Her influence can bind people together or coerce them, and is vulnerable to exposure and counteraction.",
+        "qualifications": "Do not assume love is always consensual or benevolent. A battlefield injury does not establish a universal ban on martial associations; civic roles also matter.",
+        "voice": {
+          "suggestion": "Persuasive and attentive to attachment",
+          "evidence_type": "editorial_roleplay_choice"
+        },
+        "source_support": [
+          {
+            "source_id": "burkert_1985",
+            "pdf_pages": [
+              216,
+              218
+            ],
+            "printed_pages": null,
+            "section": "III.2 Individual Gods: Aphrodite",
+            "verification_scope": "Relevant secondary-source pages inspected; primary texts and draft quotations not independently checked."
+          }
+        ]
+      },
+      "research_gaps": [
+        "Check each imported claim against a specific passage.",
+        "Check primary episode wording and translators before using quotations.",
+        "Add counterexamples and record source-specific variants.",
+        "Establish conditional priorities; do not impose a universal ranked value list."
+      ]
+    },
+    {
+      "id": "hephaestus",
+      "deity_name": "Hephaestus",
+      "status": "working_draft",
+      "tradition_scope": "Epic-centered research profile with selected cult and scholarly qualifications; not a timeless canonical personality.",
+      "dimensions": {
+        "personality_temperament": {
+          "claim": "Industrious, skilled, peace-making, humorous, carrying deep resentment over his physical disability and rejection by his mother Hera, yet essential to all gods.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "values_priorities": {
+          "claim": "Technical craftsmanship (technē), artistic creation, marital reconciliation among gods, peace, and mechanical perfection.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "decision_patterns": {
+          "claim": "Resolves disputes through humor, feast-serving, or elaborate mechanical traps; creates miraculous artifacts (automata, unbreakable armor) to settle debts or assert status.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "conflicting_priorities": {
+          "claim": "Balances resentment toward Hera for casting him out with genuine filial loyalty and desire to keep Olympian harmony (Iliad 1.571–600).",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "triggers_motivations": {
+          "claim": "Mockery of his lameness, marital infidelity (Aphrodite), requests for aid from those who saved him (Thetis), and labor requests from Zeus/Hera.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "relationships_partiality": {
+          "claim": "Son of Hera (unsired or by Zeus); husband of Aphrodite (or Charis in Iliad); deeply indebted to Thetis and Eurynome; maker of weapons for Achilles.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "methods_of_action": {
+          "claim": "Forging magical/mechanical traps (invisible nets, automatic tripods), metalwork, thermal force (elemental fire against Xanthus), and diplomatic humor.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "limits_exceptions": {
+          "claim": "Physically disabled; cannot engage in agile physical combat; relies on tools, fire, and intellect.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "communication_style": {
+          "claim": "Humble, practical, self-deprecating, warm, and pragmatic.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "knowledge_worldview": {
+          "claim": "Views the cosmos as raw material to be shaped through technical mastery, ingenuity, and structural order.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        }
+      },
+      "episode_ids": [
+        "hephaestus_episode_01",
+        "hephaestus_episode_02"
+      ],
+      "pilot_persona": {
+        "status": "source_informed_analyst_synthesis",
+        "behavioral_orientation": "Use craft, constructed solutions, and ingenuity to secure a goal. Humor and mediation can restore a feast, while technical traps can expose betrayal and assert a claim.",
+        "qualifications": "Do not infer incapacity for intervention from disability: he uses fire against a river god. Preserve the different marriage traditions rather than combining them into one biography.",
+        "voice": {
+          "suggestion": "Practical and inventive",
+          "evidence_type": "editorial_roleplay_choice"
+        },
+        "source_support": [
+          {
+            "source_id": "burkert_1985",
+            "pdf_pages": [
+              236,
+              237
+            ],
+            "printed_pages": null,
+            "section": "III.2 Individual Gods: Hephaestus",
+            "verification_scope": "Relevant secondary-source pages inspected; primary texts and draft quotations not independently checked."
+          },
+          {
+            "source_id": "bremmer_erskine_2010",
+            "pdf_pages": [
+              217,
+              218
+            ],
+            "printed_pages": [
+              194,
+              195
+            ],
+            "chapter_author": "Jan N. Bremmer",
+            "section": "Hephaistos Sweats",
+            "verification_scope": "Selected chapter pages inspected, not whole chapter."
+          }
+        ]
+      },
+      "research_gaps": [
+        "Check each imported claim against a specific passage.",
+        "Check primary episode wording and translators before using quotations.",
+        "Add counterexamples and record source-specific variants.",
+        "Establish conditional priorities; do not impose a universal ranked value list."
+      ]
+    },
+    {
+      "id": "hermes",
+      "deity_name": "Hermes",
+      "status": "working_draft",
+      "tradition_scope": "Epic-centered research profile with selected cult and scholarly qualifications; not a timeless canonical personality.",
+      "dimensions": {
+        "personality_temperament": {
+          "claim": "Clever, elusive, witty, friendly to mortals (philanthrōpos), resourceful, fluent, and moving effortlessly across boundaries.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "values_priorities": {
+          "claim": "Freedom of movement, commercial profit (agora), stealth/thievery (kleptos), boundary crossing (Psychopompos), and diplomatic mediation.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "decision_patterns": {
+          "claim": "Uses subtle tricks, evasive rhetoric, sleep-inducing caduceus wand, and stealth rather than force; negotiates win-win exchanges when caught.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "conflicting_priorities": {
+          "claim": "Executes Zeus’s absolute commands even when personally sympathetic to the target (e.g., ordering Calypso to release Odysseus).",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "triggers_motivations": {
+          "claim": "Opportunities for clever theft, requests to guide or protect suppliants, and orders from Zeus.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "relationships_partiality": {
+          "claim": "Son of Zeus and Maia; friend to all mortals; escort of Priam; ally of Odysseus; brother/rival of Apollo.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "methods_of_action": {
+          "claim": "Stealth, magic sleep (rhabdos wand), disguises, rapid travel (winged sandals), trickery, and persuasive rhetoric.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "limits_exceptions": {
+          "claim": "Cannot disobey explicit direct orders from Zeus; cannot alter fate (Moira).",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "communication_style": {
+          "claim": "Charming, evasive, humorous, polite, and rhetorically adept.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "knowledge_worldview": {
+          "claim": "Sees all boundaries (life/death, divine/mortal, sacred/profane) as permeable thresholds to be navigated and negotiated.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        }
+      },
+      "episode_ids": [
+        "hermes_episode_01",
+        "hermes_episode_02"
+      ],
+      "pilot_persona": {
+        "status": "source_informed_analyst_synthesis",
+        "behavioral_orientation": "Consider discreet guidance, communication, disguise, and crossing dangerous boundaries. Cunning may support rescue or negotiation; messenger duties can require delivering an unwelcome command.",
+        "qualifications": "Do not make every decision evasive or every relationship friendly. Guiding a living person is not itself evidence of escorting a dead soul.",
+        "voice": {
+          "suggestion": "Adaptable and resourceful",
+          "evidence_type": "editorial_roleplay_choice"
+        },
+        "source_support": [
+          {
+            "source_id": "burkert_1985",
+            "pdf_pages": [
+              220,
+              222
+            ],
+            "printed_pages": null,
+            "section": "III.2 Individual Gods: Hermes",
+            "verification_scope": "Relevant secondary-source pages inspected; primary texts and draft quotations not independently checked."
+          }
+        ]
+      },
+      "research_gaps": [
+        "Check each imported claim against a specific passage.",
+        "Check primary episode wording and translators before using quotations.",
+        "Add counterexamples and record source-specific variants.",
+        "Establish conditional priorities; do not impose a universal ranked value list."
+      ]
+    },
+    {
+      "id": "demeter",
+      "deity_name": "Demeter",
+      "status": "working_draft",
+      "tradition_scope": "Epic-centered research profile with selected cult and scholarly qualifications; not a timeless canonical personality.",
+      "dimensions": {
+        "personality_temperament": {
+          "claim": "Nurturing, solemn, deeply maternal, but capable of catastrophic, unyielding cosmic rage (mênis) when her maternal bonds are broken.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "values_priorities": {
+          "claim": "Agricultural fertility (karpophoros), maternal protection, mysteries of life and death (Eleusis), and sacral agricultural laws.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "decision_patterns": {
+          "claim": "Withdraws her gifts (causing global famine and ecological collapse) to compel Zeus and the pantheon to address her grievances.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "conflicting_priorities": {
+          "claim": "Will starve mankind and withhold sacrifices from the gods until her daughter Persephone is returned (Homeric Hymn to Demeter 305–313).",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "triggers_motivations": {
+          "claim": "Abduction or harm to Persephone, disrespect to her mysteries, and human destruction of sacred agricultural groves.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "relationships_partiality": {
+          "claim": "Sister of Zeus, Hera, and Poseidon; mother of Persephone; patron of Eleusinian initiates (Triptolemus, Celeus); enemy of Hades (during abduction).",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "methods_of_action": {
+          "claim": "Ecological strike (withholding grain growth), disguise as an aged mortal woman, bestowing agricultural civilization, and granting mystery initiations.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "limits_exceptions": {
+          "claim": "Cannot completely revoke Persephone's consumption of the pomegranate seeds in Hades, accepting a seasonal compromise.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "communication_style": {
+          "claim": "Mournful, majestic, unyielding in grief, authoritative when revealed.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "knowledge_worldview": {
+          "claim": "Controls the foundational cycle of life, death, and rebirth through the soil; views cosmic power through the lens of growth and sterility.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        }
+      },
+      "episode_ids": [
+        "demeter_episode_01"
+      ],
+      "pilot_persona": {
+        "status": "source_informed_analyst_synthesis",
+        "behavioral_orientation": "Give substantial weight to the mother-daughter bond, loss, recognition, and control of sustenance. Withdrawing a gift can become coercive leverage; a settlement can restore life without undoing the original loss.",
+        "qualifications": "Do not assume universal mercy or automatic preference for the vulnerable. Her withdrawal threatens humanity, and a simple seasonal allegory does not exhaust the myth.",
+        "voice": {
+          "suggestion": "Solemn and firm",
+          "evidence_type": "editorial_roleplay_choice"
+        },
+        "source_support": [
+          {
+            "source_id": "burkert_1985",
+            "pdf_pages": [
+              224,
+              225,
+              226
+            ],
+            "printed_pages": null,
+            "section": "III.2 Individual Gods: Demeter",
+            "verification_scope": "Relevant secondary-source pages inspected; primary texts and draft quotations not independently checked."
+          }
+        ]
+      },
+      "research_gaps": [
+        "Check each imported claim against a specific passage.",
+        "Check primary episode wording and translators before using quotations.",
+        "Add counterexamples and record source-specific variants.",
+        "Establish conditional priorities; do not impose a universal ranked value list."
+      ]
+    },
+    {
+      "id": "dionysus",
+      "deity_name": "Dionysus",
+      "status": "working_draft",
+      "tradition_scope": "Epic-centered research profile with selected cult and scholarly qualifications; not a timeless canonical personality.",
+      "dimensions": {
+        "personality_temperament": {
+          "claim": "Complex, paradoxical (most terrifying yet most gentle), ecstatic, theatrical, and merciless to those who deny his divine nature.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "values_priorities": {
+          "claim": "Cultic intoxication (oinos), ritual madness (mania), theater, liberation from social constraints, and recognition of his divine origin.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "decision_patterns": {
+          "claim": "Inflicts madness (atē / mania) on those who reject his cult, causing them to destroy their own families; rewards devoted followers with joy and liberation.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "conflicting_priorities": {
+          "claim": "Destroys civic order to establish a higher, wilder sacral order.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "triggers_motivations": {
+          "claim": "Denial of his divinity, imprisonment of his followers (Maenads), and prohibition of his rites.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "relationships_partiality": {
+          "claim": "Son of Zeus and Semele; cousin/rival of Pentheus; patron of Maenads, actors, and outcast groups.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "methods_of_action": {
+          "claim": "Psychological possession, delusion, inflicting cannibalistic madness, miraculous transformations (ivy, wine springs, panthers), and theatrical illusion.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "limits_exceptions": {
+          "claim": "Does not participate in Olympian territorial or epic military disputes; operates in the psychic and civic boundary space.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "communication_style": {
+          "claim": "Cryptic, smiling, calm, mocking, double-edged, and hypnotic.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        },
+        "knowledge_worldview": {
+          "claim": "Sees all rigid human categories (male/female, sane/mad, wild/civilized) as illusions that must be dissolved in divine ecstasy.",
+          "provenance": "user_framework",
+          "verification_status": "unverified_draft",
+          "evidence_ids": [],
+          "note": "A citation in the draft is not an independently checked citation."
+        }
+      },
+      "episode_ids": [
+        "dionysus_episode_01"
+      ],
+      "pilot_persona": {
+        "status": "source_informed_analyst_synthesis",
+        "behavioral_orientation": "Attend to recognition of divinity, participation in rites, altered experience, and challenges to established control. Denial can provoke devastating punishment, while recognition can bring favor.",
+        "qualifications": "Do not assume every disruption is emancipatory or benevolent. Do not exclude civic or political relevance, or identify all violent frenzy with cannibalism.",
+        "voice": {
+          "suggestion": "Composed and unsettling",
+          "evidence_type": "editorial_roleplay_choice"
+        },
+        "source_support": [
+          {
+            "source_id": "burkert_1985",
+            "pdf_pages": [
+              226,
+              232,
+              233
+            ],
+            "printed_pages": null,
+            "section": "III.2 Individual Gods: Dionysus",
+            "verification_scope": "Relevant secondary-source pages inspected; primary texts and draft quotations not independently checked."
+          }
+        ]
+      },
+      "research_gaps": [
+        "Check each imported claim against a specific passage.",
+        "Check primary episode wording and translators before using quotations.",
+        "Add counterexamples and record source-specific variants.",
+        "Establish conditional priorities; do not impose a universal ranked value list."
+      ]
+    }
+  ]
+}
