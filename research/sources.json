@@ -1,0 +1,29 @@
+[
+  {
+    "id": "burkert_1985",
+    "title": "Greek Religion",
+    "author_or_editors": "Walter Burkert",
+    "bibliographic_year_from_draft": 1985,
+    "path": "sources/Greek Religion (Walter Burkert) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "pdf_pages": 779,
+    "locator_note": "pdf_page is one-based; printed pages must be checked separately."
+  },
+  {
+    "id": "sissa_detienne_2000",
+    "title": "The Daily Life of the Greek Gods",
+    "author_or_editors": "Giulia Sissa and Marcel Detienne",
+    "bibliographic_year_from_draft": 2000,
+    "path": "sources/The Daily Life of the Greek Gods (Giulia Sissa, Marcel Detienne) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "pdf_pages": 302,
+    "locator_note": "pdf_page is one-based; printed pages must be checked separately."
+  },
+  {
+    "id": "bremmer_erskine_2010",
+    "title": "The Gods of Ancient Greece",
+    "author_or_editors": "Jan N. Bremmer and Andrew Erskine (editors)",
+    "bibliographic_year_from_draft": 2010,
+    "path": "sources/The Gods of Ancient Greece - Identities and Transformations (Edinburgh Leventis Studies) (Jan N. Bremmer, Andrew Erskine) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "pdf_pages": 553,
+    "locator_note": "pdf_page is one-based; printed pages must be checked separately."
+  }
+]

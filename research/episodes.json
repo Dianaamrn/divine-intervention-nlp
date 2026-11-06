@@ -1,0 +1,445 @@
+{
+  "schema_version": "0.1.0",
+  "episodes": [
+    {
+      "id": "zeus_episode_01",
+      "deity_id": "zeus",
+      "original_id": "Z1",
+      "title": "The Pact with Thetis (Dios Boulē)",
+      "draft_fields": {
+        "situation": "Thetis supplicates Zeus to grant victory to the Trojans until Agamemnon and the Achaeans restore honor (timē) to her insulted son Achilles (Iliad 1.493–530).",
+        "motivation": "To fulfill reciprocal obligation (charis) to Thetis for her past aid when other Olympians attempted to bind him.",
+        "action": "Zeus initially hesitates out of concern for Hera's anger, then bows his dark brows in an irrevocable nod: \"He spoke; and with blue-black brows the son of Kronos nodded... and he shook great Olympus.\" (Iliad 1.528–530).",
+        "interpretation": "Demonstrates Zeus's decision pattern of prioritizing high-tier divine debt/honor over immediate pantheonic harmony, executing decisions through absolute, binding signs.",
+        "source": "Iliad 1.493–530; Burkert, Greek Religion, pp. 126–128.",
+        "uncertainty": "Explicit (Motivations and actions directly stated by Homer)."
+      },
+      "primary_text_verification": "not_performed",
+      "quotation_verification": "not_performed",
+      "motivation_evidence_type": "needs_separate_review",
+      "interpretation_evidence_type": "analyst_inference",
+      "training_eligible": false,
+      "note": "Original Explicit labels are retained as draft metadata, not accepted as verification."
+    },
+    {
+      "id": "zeus_episode_02",
+      "deity_id": "zeus",
+      "original_id": "Z2",
+      "title": "The Restraint at Sarpedon's Doom",
+      "draft_fields": {
+        "situation": "Zeus's mortal son Sarpedon is about to be slain by Patroclus (Iliad 16.431–461).",
+        "motivation": "Desire to save his beloved son vs. duty to uphold cosmic fate (Moira).",
+        "action": "Zeus laments to Hera, contemplating plucking Sarpedon from battle. Hera warns him that if he overrides fate, all other gods will do the same for their children. Zeus acquiesces and rains drops of blood upon the earth to honor his dying son, letting fate take its course.",
+        "interpretation": "Illustrates Zeus's ultimate compliance with Moira when divine consensus and systemic stability are threatened by personal indulgence.",
+        "source": "Iliad 16.431–461; Sissa & Detienne, Daily Life of the Greek Gods, pp. 102–105.",
+        "uncertainty": "Explicit."
+      },
+      "primary_text_verification": "not_performed",
+      "quotation_verification": "not_performed",
+      "motivation_evidence_type": "needs_separate_review",
+      "interpretation_evidence_type": "analyst_inference",
+      "training_eligible": false,
+      "note": "Original Explicit labels are retained as draft metadata, not accepted as verification."
+    },
+    {
+      "id": "hera_episode_01",
+      "deity_id": "hera",
+      "original_id": "H1",
+      "title": "The Seduction of Zeus (Dios Apate)",
+      "draft_fields": {
+        "situation": "Poseidon is illegally aiding the Achaeans while Zeus watches from Mount Ida (Iliad 14.153–353).",
+        "motivation": "To distract Zeus so the Achaeans can turn the tide of battle against the Trojans.",
+        "action": "Hera adorns herself with ambrosia, borrows Aphrodite's magical girdle (kestos), bribes Hypnos with the promise of one of the Graces, and seduces Zeus on Mount Ida, lulling him to sleep.",
+        "interpretation": "Demonstrates Hera's mastery of indirect, non-violent, erotic strategy to subvert Zeus's absolute physical power.",
+        "source": "Iliad 14.153–353; Sissa & Detienne, pp. 33–36.",
+        "uncertainty": "Explicit."
+      },
+      "primary_text_verification": "not_performed",
+      "quotation_verification": "not_performed",
+      "motivation_evidence_type": "needs_separate_review",
+      "interpretation_evidence_type": "analyst_inference",
+      "training_eligible": false,
+      "note": "Original Explicit labels are retained as draft metadata, not accepted as verification."
+    },
+    {
+      "id": "hera_episode_02",
+      "deity_id": "hera",
+      "original_id": "H2",
+      "title": "Sacrificing Favored Cities for Troy's Destruction",
+      "draft_fields": {
+        "situation": "Zeus proposes ending the Trojan War peacefully to spare Troy (Iliad 4.20–54).",
+        "motivation": "Unyielding rage against Paris and Troy for violating her honor.",
+        "action": "Hera refuses peace and tells Zeus: \"My own three favorite cities are Argos, Sparta, and Mycenae. Sack them whenever you may be displeased with them. I shall not defend them...\" provided Troy is destroyed (Iliad 4.51–54).",
+        "interpretation": "Shows Hera's extreme priority structure: absolute obliteration of dishonor outweighs even her affection for her primary cult sites.",
+        "source": "Iliad 4.20–54; Sissa & Detienne, pp. 139–140.",
+        "uncertainty": "Explicit."
+      },
+      "primary_text_verification": "not_performed",
+      "quotation_verification": "not_performed",
+      "motivation_evidence_type": "needs_separate_review",
+      "interpretation_evidence_type": "analyst_inference",
+      "training_eligible": false,
+      "note": "Original Explicit labels are retained as draft metadata, not accepted as verification."
+    },
+    {
+      "id": "poseidon_episode_01",
+      "deity_id": "poseidon",
+      "original_id": "P1",
+      "title": "The Persecution of Odysseus",
+      "draft_fields": {
+        "situation": "Odysseus blinds Poseidon’s son, the Cyclops Polyphemus (Odyssey 9.526–535).",
+        "motivation": "Retribution for the dishonor and mutilation inflicted on his offspring.",
+        "action": "Poseidon hears Polyphemus's prayer and ensures Odysseus loses all companions, suffers ten years of hardship, and returns to a house in chaos (Odyssey 1.68–75; 5.282–291).",
+        "interpretation": "Proves Poseidon’s relentless, long-term commitment to familial retribution, operating right up to the boundary of fate.",
+        "source": "Odyssey 1.68–75; 9.526–535; Burkert, pp. 136–139.",
+        "uncertainty": "Explicit."
+      },
+      "primary_text_verification": "not_performed",
+      "quotation_verification": "not_performed",
+      "motivation_evidence_type": "needs_separate_review",
+      "interpretation_evidence_type": "analyst_inference",
+      "training_eligible": false,
+      "note": "Original Explicit labels are retained as draft metadata, not accepted as verification."
+    },
+    {
+      "id": "poseidon_episode_02",
+      "deity_id": "poseidon",
+      "original_id": "P2",
+      "title": "Defiance and Yielding to Zeus",
+      "draft_fields": {
+        "situation": "Zeus sends Iris ordering Poseidon to cease fighting on the Trojan battlefield (Iliad 15.173–217).",
+        "motivation": "Defense of his equal cosmic status derived from the division of the world by lot.",
+        "action": "Poseidon initially rages, asserting that he, Zeus, and Hades are equal peers: \"I am of equal status, allotted an equal share!\" However, after Iris reminds him that the Erinyes (Furies) always side with the elder brother, Poseidon reluctantly backs down.",
+        "interpretation": "Highlights Poseidon's tension between extreme pride in equal birth and ultimate pragmatic submission to cosmic seniority and Zeus’s superior power.",
+        "source": "Iliad 15.173–217; Sissa & Detienne, pp. 115–116.",
+        "uncertainty": "Explicit."
+      },
+      "primary_text_verification": "not_performed",
+      "quotation_verification": "not_performed",
+      "motivation_evidence_type": "needs_separate_review",
+      "interpretation_evidence_type": "analyst_inference",
+      "training_eligible": false,
+      "note": "Original Explicit labels are retained as draft metadata, not accepted as verification."
+    },
+    {
+      "id": "athena_episode_01",
+      "deity_id": "athena",
+      "original_id": "A1",
+      "title": "Restraining Achilles' Wrath",
+      "draft_fields": {
+        "situation": "Agamemnon publicly threatens to seize Achilles' captive Briseis; Achilles begins drawing his sword to slay the king (Iliad 1.188–222).",
+        "motivation": "To prevent the catastrophic collapse of the Greek coalition and save both leaders, whom Hera loves.",
+        "action": "Athena glides down, visible only to Achilles, catches him by his golden hair, and commands: \"I come from heaven to bid you stay your anger... Cease this brawling, do not draw your sword.\" She promises three-fold compensation if he obeys (Iliad 1.194–214).",
+        "interpretation": "The quintessential example of Athena's intervention as psychic illumination—anatomizing internal prudence and self-control into divine counsel.",
+        "source": "Iliad 1.188–222; Burkert, p. 141; Sissa & Detienne, pp. 91–92.",
+        "uncertainty": "Explicit."
+      },
+      "primary_text_verification": "not_performed",
+      "quotation_verification": "not_performed",
+      "motivation_evidence_type": "needs_separate_review",
+      "interpretation_evidence_type": "analyst_inference",
+      "training_eligible": false,
+      "note": "Original Explicit labels are retained as draft metadata, not accepted as verification."
+    },
+    {
+      "id": "athena_episode_02",
+      "deity_id": "athena",
+      "original_id": "A2",
+      "title": "Recognition and Alliance with Odysseus",
+      "draft_fields": {
+        "situation": "Odysseus lands on Ithaca, fails to recognize his fog-shrouded homeland, and invents an elaborate false backstory (Odyssey 13.221–310).",
+        "motivation": "To test Odysseus and establish a collaborative plan to destroy the suitors.",
+        "action": "Athena smiles, transforms from a shepherd youth into a tall, beautiful woman, and praises his trickery: \"Any man or god who would keep pace with your craftiness must needs be a canny dealer... You are foremost among men for plans and designs, while I am famed among gods for wisdom and wiles.\" (Odyssey 13.291–299).",
+        "interpretation": "Demonstrates Athena’s unique affinity for mortals who embody mêtis (cunning intelligence), establishing a partnership of mutual intellectual respect.",
+        "source": "Odyssey 13.221–310; Burkert, p. 143.",
+        "uncertainty": "Explicit."
+      },
+      "primary_text_verification": "not_performed",
+      "quotation_verification": "not_performed",
+      "motivation_evidence_type": "needs_separate_review",
+      "interpretation_evidence_type": "analyst_inference",
+      "training_eligible": false,
+      "note": "Original Explicit labels are retained as draft metadata, not accepted as verification."
+    },
+    {
+      "id": "apollo_episode_01",
+      "deity_id": "apollo",
+      "original_id": "Ap1",
+      "title": "The Plague on the Achaean Camp",
+      "draft_fields": {
+        "situation": "Agamemnon dishonors Apollo’s priest Chryses, refusing to ransom Chryses' daughter and driving him away with threats (Iliad 1.33–53).",
+        "motivation": "To avenge the insult to his priest's timē and enforce divine retribution.",
+        "action": "Apollo descends from Olympus \"like night\", sitting apart from the ships, and shoots pestilential arrows for nine days, exterminating mules, dogs, and Achaean soldiers until a massive hecatomb is offered (Iliad 1.43–53).",
+        "interpretation": "Highlights Apollo’s identity as both plague-bringer and healer, enforcing strict accountability for disrespect to divine representatives.",
+        "source": "Iliad 1.33–53; Sissa & Detienne, pp. 60–61.",
+        "uncertainty": "Explicit."
+      },
+      "primary_text_verification": "not_performed",
+      "quotation_verification": "not_performed",
+      "motivation_evidence_type": "needs_separate_review",
+      "interpretation_evidence_type": "analyst_inference",
+      "training_eligible": false,
+      "note": "Original Explicit labels are retained as draft metadata, not accepted as verification."
+    },
+    {
+      "id": "apollo_episode_02",
+      "deity_id": "apollo",
+      "original_id": "Ap2",
+      "title": "Rejection of Battle with Poseidon",
+      "draft_fields": {
+        "situation": "During the Battle of the Gods, Poseidon challenges Apollo to single combat (Iliad 21.435–469).",
+        "motivation": "Preserving divine dignity and avoiding useless conflict over mortal ephemera.",
+        "action": "Apollo declines to fight his uncle: \"Earthshaker, you would not say I was in my right mind if I were to fight you for the sake of wretched mortals, who are like leaves—now flourishing in glory, now fading away.\" (Iliad 21.462–466).",
+        "interpretation": "Proves Apollo’s philosophical detachment regarding human life and his adherence to pantheonic generational respect.",
+        "source": "Iliad 21.435–469; Sissa & Detienne, p. 83.",
+        "uncertainty": "Explicit."
+      },
+      "primary_text_verification": "not_performed",
+      "quotation_verification": "not_performed",
+      "motivation_evidence_type": "needs_separate_review",
+      "interpretation_evidence_type": "analyst_inference",
+      "training_eligible": false,
+      "note": "Original Explicit labels are retained as draft metadata, not accepted as verification."
+    },
+    {
+      "id": "artemis_episode_01",
+      "deity_id": "artemis",
+      "original_id": "Ar1",
+      "title": "The Calydonian Boar",
+      "draft_fields": {
+        "situation": "King Oineus of Calydon performs harvest sacrifices to all the gods but completely forgets Artemis (Iliad 9.533–542).",
+        "motivation": "Retribution for being overlooked in cultic offerings.",
+        "action": "Artemis lets loose a monstrous, white-tusked boar that ravages Oineus's vineyards, slaughters livestock, and causes a bloody civil war among the hunters over its hide (Iliad 9.538–547).",
+        "interpretation": "Demonstrates Artemis's sensitivity to cultic neglect and her capacity to inflict devastating ecological and political chaos for omitted honors.",
+        "source": "Iliad 9.533–547; Sissa & Detienne, p. 64.",
+        "uncertainty": "Explicit."
+      },
+      "primary_text_verification": "not_performed",
+      "quotation_verification": "not_performed",
+      "motivation_evidence_type": "needs_separate_review",
+      "interpretation_evidence_type": "analyst_inference",
+      "training_eligible": false,
+      "note": "Original Explicit labels are retained as draft metadata, not accepted as verification."
+    },
+    {
+      "id": "artemis_episode_02",
+      "deity_id": "artemis",
+      "original_id": "Ar2",
+      "title": "The Humiliation by Hera",
+      "draft_fields": {
+        "situation": "Artemis mocks Apollo for refusing to fight Poseidon, prompting Hera to intervene (Iliad 21.470–513).",
+        "motivation": "Reassessing Artemis's domain within military conflict.",
+        "action": "Hera grabs Artemis by both wrists, steals her bow, and boxes her ears while smiling; Artemis flees weeping to Zeus, leaving her arrows scattered on the ground.",
+        "interpretation": "Highlights the structural limits of Artemis: supreme in the wilderness and among maidens, but powerless in formal warfare against major sovereign deities.",
+        "source": "Iliad 21.470–513; Burkert, p. 149.",
+        "uncertainty": "Explicit."
+      },
+      "primary_text_verification": "not_performed",
+      "quotation_verification": "not_performed",
+      "motivation_evidence_type": "needs_separate_review",
+      "interpretation_evidence_type": "analyst_inference",
+      "training_eligible": false,
+      "note": "Original Explicit labels are retained as draft metadata, not accepted as verification."
+    },
+    {
+      "id": "ares_episode_01",
+      "deity_id": "ares",
+      "original_id": "Ar1",
+      "title": "Wounded by Diomedes and Athena",
+      "draft_fields": {
+        "situation": "Ares enters the Trojan battlefield, driving the Trojans forward and slaughtering Achaeans (Iliad 5.840–863).",
+        "motivation": "Unchecked indulgence in carnage on behalf of Paris and Aphrodite.",
+        "action": "Athena dons the helmet of Hades (invisibility), deflects Ares's spear, and drives Diomedes's spear into Ares's belly. Ares roars like 10,000 men and flees to Olympus (Iliad 5.855–864).",
+        "interpretation": "Demonstrates the vulnerability of raw physical violence (Ares) when confronted by tactical intelligence (Athena).",
+        "source": "Iliad 5.840–863; Sissa & Detienne, pp. 54, 103.",
+        "uncertainty": "Explicit."
+      },
+      "primary_text_verification": "not_performed",
+      "quotation_verification": "not_performed",
+      "motivation_evidence_type": "needs_separate_review",
+      "interpretation_evidence_type": "analyst_inference",
+      "training_eligible": false,
+      "note": "Original Explicit labels are retained as draft metadata, not accepted as verification."
+    },
+    {
+      "id": "ares_episode_02",
+      "deity_id": "ares",
+      "original_id": "Ar2",
+      "title": "Rejection by Zeus",
+      "draft_fields": {
+        "situation": "Ares arrives on Olympus groaning about his wound and complaining of Athena's violence (Iliad 5.888–906).",
+        "motivation": "Seeking paternal sympathy and divine retribution against Athena.",
+        "action": "Zeus scowls and rebukes him sternly: \"Do not sit by me and whine, you double-faced liar! To me you are the most hateful of all the gods who hold Olympus, for forever strife is dear to you and wars and slaughter.\" (Iliad 5.889–891).",
+        "interpretation": "Establishes Ares's isolated status within the Olympian hierarchy as the embodiment of hateful, mindless violence.",
+        "source": "Iliad 5.888–906; Sissa & Detienne, p. 103.",
+        "uncertainty": "Explicit."
+      },
+      "primary_text_verification": "not_performed",
+      "quotation_verification": "not_performed",
+      "motivation_evidence_type": "needs_separate_review",
+      "interpretation_evidence_type": "analyst_inference",
+      "training_eligible": false,
+      "note": "Original Explicit labels are retained as draft metadata, not accepted as verification."
+    },
+    {
+      "id": "aphrodite_episode_01",
+      "deity_id": "aphrodite",
+      "original_id": "Aph1",
+      "title": "Coercion of Helen",
+      "draft_fields": {
+        "situation": "Menelaus defeats Paris in single combat; Aphrodite snatches Paris away in a cloud and places him in his bedchamber, then summons Helen (Iliad 3.380–447).",
+        "motivation": "Preserving Paris and maintaining the erotic bond between Paris and Helen.",
+        "action": "Helen recognizes Aphrodite's dazzling neck and eyes, and tries to refuse: \"Strange goddess, why do you desire to beguile me thus?\" Aphrodite turns on her with fury: \"Provoke me not, wretched woman, lest I abandon you in anger and hate you as violently as I now love you!\" Helen submits in terror (Iliad 3.399–418).",
+        "interpretation": "Illustrates the coercive, terrifying side of Aphrodite: desire is an autonomous divine force that mortals cannot refuse without destruction.",
+        "source": "Iliad 3.380–447; Burkert, p. 152; Sissa & Detienne, pp. 36–37.",
+        "uncertainty": "Explicit."
+      },
+      "primary_text_verification": "not_performed",
+      "quotation_verification": "not_performed",
+      "motivation_evidence_type": "needs_separate_review",
+      "interpretation_evidence_type": "analyst_inference",
+      "training_eligible": false,
+      "note": "Original Explicit labels are retained as draft metadata, not accepted as verification."
+    },
+    {
+      "id": "aphrodite_episode_02",
+      "deity_id": "aphrodite",
+      "original_id": "Aph2",
+      "title": "Wounded by Diomedes",
+      "draft_fields": {
+        "situation": "Aphrodite enters the battlefield to carry her wounded son Aeneas out of danger (Iliad 5.311–380).",
+        "motivation": "Maternal protection of her mortal son.",
+        "action": "Diomedes pursues her, knowing she is a weak deity, and thrusts his spear into her wrist, tearing the ambrosial skin and drawing ikhor. Aphrodite drops Aeneas, screams, and flees to Olympus (Iliad 5.330–351).",
+        "interpretation": "Demonstrates the absolute boundary of Aphrodite's timē: sovereign in erotic compulsion, completely invalid in open war.",
+        "source": "Iliad 5.311–380; Sissa & Detienne, pp. 54, 81.",
+        "uncertainty": "Explicit."
+      },
+      "primary_text_verification": "not_performed",
+      "quotation_verification": "not_performed",
+      "motivation_evidence_type": "needs_separate_review",
+      "interpretation_evidence_type": "analyst_inference",
+      "training_eligible": false,
+      "note": "Original Explicit labels are retained as draft metadata, not accepted as verification."
+    },
+    {
+      "id": "hephaestus_episode_01",
+      "deity_id": "hephaestus",
+      "original_id": "He1",
+      "title": "The Entrapment of Ares and Aphrodite",
+      "draft_fields": {
+        "situation": "Helios informs Hephaestus that Aphrodite and Ares are committing adultery in his bed (Odyssey 8.266–366).",
+        "motivation": "Public exposure of the betrayal, retribution, and recovery of the marriage gifts.",
+        "action": "Hephaestus forges an invisible, unbreakable bronze net around the bed. When Ares and Aphrodite lie together, the trap springs. Hephaestus invites all the gods to view the couple, demanding his hedna (marriage gifts) back from Zeus (Odyssey 8.272–320).",
+        "interpretation": "Highlights Hephaestus's strategy: compensating for physical deformity through superior technē and intellectual cunning (mêtis).",
+        "source": "Odyssey 8.266–366; Burkert, p. 168.",
+        "uncertainty": "Explicit."
+      },
+      "primary_text_verification": "not_performed",
+      "quotation_verification": "not_performed",
+      "motivation_evidence_type": "needs_separate_review",
+      "interpretation_evidence_type": "analyst_inference",
+      "training_eligible": false,
+      "note": "Original Explicit labels are retained as draft metadata, not accepted as verification."
+    },
+    {
+      "id": "hephaestus_episode_02",
+      "deity_id": "hephaestus",
+      "original_id": "He2",
+      "title": "Peace-Making on Olympus",
+      "draft_fields": {
+        "situation": "Zeus and Hera engage in a fierce quarrel over Zeus's secret pact with Thetis (Iliad 1.536–600).",
+        "motivation": "Preventing divine civil war and restoring the joy of the Olympian banquet.",
+        "action": "Hephaestus intervenes, urging Hera to submit: \"This will be disastrous... if you two quarrel for the sake of mortals.\" He pours sweet nectar for the gods, bustling hobblingly about the hall, evoking \"inextinguishable Homeric laughter\" and restoring peace (Iliad 1.571–600).",
+        "interpretation": "Demonstrates Hephaestus's role as the peacemaker of Olympus, utilizing self-deprecating humor to defuse supreme power struggles.",
+        "source": "Iliad 1.536–600; Burkert, p. 168; Sissa & Detienne, p. 49.",
+        "uncertainty": "Explicit."
+      },
+      "primary_text_verification": "not_performed",
+      "quotation_verification": "not_performed",
+      "motivation_evidence_type": "needs_separate_review",
+      "interpretation_evidence_type": "analyst_inference",
+      "training_eligible": false,
+      "note": "Original Explicit labels are retained as draft metadata, not accepted as verification."
+    },
+    {
+      "id": "hermes_episode_01",
+      "deity_id": "hermes",
+      "original_id": "Her1",
+      "title": "Escorting Priam to Achilles",
+      "draft_fields": {
+        "situation": "King Priam must travel secretly into the Achaean camp to ransom Hector's body (Iliad 24.331–468).",
+        "motivation": "Protecting the elderly suppliant Priam under Zeus's orders.",
+        "action": "Hermes disguises himself as a young Myrmidon prince, puts the Achaean sentries to sleep with his wand, unlocks the massive gates, and guides Priam straight to Achilles's hut before revealing his identity (Iliad 24.440–461).",
+        "interpretation": "Quintessential demonstration of Hermes as Psychopompos and guide across perilous boundaries using stealth and divine sleep.",
+        "source": "Iliad 24.331–468; Burkert, p. 158.",
+        "uncertainty": "Explicit."
+      },
+      "primary_text_verification": "not_performed",
+      "quotation_verification": "not_performed",
+      "motivation_evidence_type": "needs_separate_review",
+      "interpretation_evidence_type": "analyst_inference",
+      "training_eligible": false,
+      "note": "Original Explicit labels are retained as draft metadata, not accepted as verification."
+    },
+    {
+      "id": "hermes_episode_02",
+      "deity_id": "hermes",
+      "original_id": "Her2",
+      "title": "Delivery of Zeus's Decree to Calypso",
+      "draft_fields": {
+        "situation": "Zeus orders Hermes to fly to Ogygia and command Calypso to release Odysseus (Odyssey 5.43–148).",
+        "motivation": "Executing Zeus's decree despite Calypso's protests.",
+        "action": "Hermes arrives, enjoys Calypso's hospitality, and then bluntly delivers the message: \"Zeus commanded my journey: by no choice of my own did I fare across so unspeakable a waste of salt water... Send him home with speed!\" (Odyssey 5.97–115).",
+        "interpretation": "Proves that despite his trickster nature, Hermes operates as an obedient executive officer of Zeus's supreme will.",
+        "source": "Odyssey 5.43–148; Sissa & Detienne, p. 17.",
+        "uncertainty": "Explicit."
+      },
+      "primary_text_verification": "not_performed",
+      "quotation_verification": "not_performed",
+      "motivation_evidence_type": "needs_separate_review",
+      "interpretation_evidence_type": "analyst_inference",
+      "training_eligible": false,
+      "note": "Original Explicit labels are retained as draft metadata, not accepted as verification."
+    },
+    {
+      "id": "demeter_episode_01",
+      "deity_id": "demeter",
+      "original_id": "D1",
+      "title": "The Great Ecological Strike",
+      "draft_fields": {
+        "situation": "Hades abducts Persephone with Zeus's tacit consent (Homeric Hymn to Demeter 1–313).",
+        "motivation": "Compelling the gods to return her daughter.",
+        "action": "Demeter assumes the form of an old woman, wanders the earth, and then sits in her temple at Eleusis, withholding all seed growth: \"She caused a most dreadful and cruel year for mankind... the earth did not send up any seed.\" Mankind faced total extinction, which would deprive the gods of sacrifices (Hymn to Demeter 305–313).",
+        "interpretation": "Demonstrates Demeter's supreme leverage: by attacking the foundation of human survival, she forces Zeus to alter divine decrees.",
+        "source": "Homeric Hymn to Demeter 1–313; Burkert, pp. 159–161.",
+        "uncertainty": "Explicit."
+      },
+      "primary_text_verification": "not_performed",
+      "quotation_verification": "not_performed",
+      "motivation_evidence_type": "needs_separate_review",
+      "interpretation_evidence_type": "analyst_inference",
+      "training_eligible": false,
+      "note": "Original Explicit labels are retained as draft metadata, not accepted as verification."
+    },
+    {
+      "id": "dionysus_episode_01",
+      "deity_id": "dionysus",
+      "original_id": "Di1",
+      "title": "The Punishment of Pentheus",
+      "draft_fields": {
+        "situation": "King Pentheus of Thebes outlaws Dionysian rites and imprisons Dionysus (Euripides, Bacchae 1–1392).",
+        "motivation": "Enforcing recognition of his divinity and punishing civic hubris.",
+        "action": "Dionysus calmly allows himself to be bound, breaks free through seismic illusions, drives the women of Thebes (including Pentheus's mother Agave) into wild ecstasy on the mountains, entices Pentheus to dress as a woman to spy on them, and causes Agave to tear Pentheus limb from limb (Bacchae 800–1165; Burkert, p. 164).",
+        "interpretation": "Demonstrates Dionysus's ultimate strategy: turning the oppressor's own repressed desires into total psychological and physical self-destruction.",
+        "source": "Euripides, Bacchae; Burkert, Greek Religion, pp. 162–165; Sissa & Detienne, p. 64.",
+        "uncertainty": "Explicit."
+      },
+      "primary_text_verification": "not_performed",
+      "quotation_verification": "not_performed",
+      "motivation_evidence_type": "needs_separate_review",
+      "interpretation_evidence_type": "analyst_inference",
+      "training_eligible": false,
+      "note": "Original Explicit labels are retained as draft metadata, not accepted as verification."
+    }
+  ]
+}

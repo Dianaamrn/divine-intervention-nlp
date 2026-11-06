@@ -1,0 +1,9 @@
+# Source books and their extracted contents remain local.
+/sources/
+/research/source_text/
+/research/source_previews/
+
+# Isolated publishing checkout and Python caches.
+/.publish/
+__pycache__/
+*.py[cod]
